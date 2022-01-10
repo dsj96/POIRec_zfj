@@ -4,7 +4,7 @@
  * @Date: 2021-12-28 23:23:11
  * @LastEditTime: 2021-12-30 00:27:24
 -->
-## 论文《LINE: Large-scale Information Network Embedding》代码（Python）
+
 
 ### Large Scale Information Network Embedding (LINE) - PyTorch Implementation
 
